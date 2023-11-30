@@ -32,7 +32,7 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
 
 Four-bit “Up” Counter
-![image](https://user-images.githubusercontent.com/36288975/169644758-b2f4339d-9532-40c5-af40-8f4f8c942e2c.png)
+![Screenshot 2023-11-26 171521](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/70511c46-364d-42dc-b9c5-b9bce72b278a)
 
 
 
@@ -41,8 +41,8 @@ Four-bit “Up” Counter
 As well as counting “up” from zero and increasing or incrementing to some preset value, it is sometimes necessary to count “down” from a predetermined value to zero allowing us to produce an output that activates when the zero count or some other pre-set value is reached.
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
-![image](https://user-images.githubusercontent.com/36288975/169644844-1a14e123-7228-4ed8-81a9-eb937dff4ac8.png)
 
+![Screenshot 2023-11-26 171915](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/592f3996-a4e7-406c-8568-6e87d0323a71)
 
 4-bit Count Down Counter
 ### Procedure
@@ -59,6 +59,7 @@ RegisterNumber:
 
 
 
+![Screenshot 2023-11-26 172417](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/996e1e75-3b3e-4c30-9ea3-e8ef532445ba)
 
 
 
@@ -74,11 +75,23 @@ RegisterNumber:
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+![Screenshot 2023-11-26 171402](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/7e36f208-d559-4b92-9083-e31a588f9231)
 
 
 
 
 ### TRUTH TABLE 
+
+![download](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/e78852d8-de38-443d-af9e-097e53d286bc)
+
+![download](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/e78852d8-de38-443d-af9e-097e53d286bc)
+
+
+
+
+
+
+
 
 
 
