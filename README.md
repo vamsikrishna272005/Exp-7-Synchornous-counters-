@@ -61,6 +61,7 @@ RegisterNumber:
 
 ![Screenshot 2023-11-26 172417](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/996e1e75-3b3e-4c30-9ea3-e8ef532445ba)
 
+![Uploading Screenshot 2023-11-26 172417.png…]()
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
@@ -78,6 +79,7 @@ RegisterNumber:
 ![Screenshot 2023-11-26 171402](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/7e36f208-d559-4b92-9083-e31a588f9231)
 
 
+![Screenshot 2023-11-26 171857](https://github.com/vamsikrishna272005/Exp-7-Synchornous-counters-/assets/147477015/7b1768c2-9320-45ec-a4a1-ff5d587da0f6)
 
 
 ### TRUTH TABLE 
